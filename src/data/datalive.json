@@ -1,0 +1,112 @@
+{
+    "konten": [
+        {
+            "ID": "7",
+            "ID_RUBRIK": "7",
+            "TGL": "06-02-2021 21:00",
+            "HARI": "Saturday",
+            "HITS": "0",
+            "JUDUL": "OMRON INDONESIA",
+            "SLUG": "omron-indonesia",
+            "VIDEO": "PekQvyKAf6Y",
+            "GAMBAR": "601ea18157a66.png",
+            "RUBRIK": "Leader Story"
+        },
+        {
+            "ID": "11",
+            "ID_RUBRIK": "8",
+            "TGL": "06-02-2021 21:00",
+            "HARI": "Saturday",
+            "HITS": "0",
+            "JUDUL": "LIGHT UP YOUR COMPANY SESSION 1   PART 3",
+            "SLUG": "light-up-your-company-session-1-part-3",
+            "VIDEO": "SHIl8nf77bo",
+            "GAMBAR": "601ea4444a110.png",
+            "RUBRIK": "Motivasi"
+        },
+        {
+            "ID": "12",
+            "ID_RUBRIK": "6",
+            "TGL": "08-02-2021 17:00",
+            "HARI": "Monday",
+            "HITS": "0",
+            "JUDUL": "\"THE POWER\" BY JULIANTO EKAPUTRA",
+            "SLUG": "the-power-by-julianto-ekaputra",
+            "VIDEO": "AvQubQjeLf8",
+            "GAMBAR": "60210c54ebe28.png",
+            "RUBRIK": "Talk About"
+        },
+        {
+            "ID": "5",
+            "ID_RUBRIK": "6",
+            "TGL": "06-02-2021 21:00",
+            "HARI": "Saturday",
+            "HITS": "0",
+            "JUDUL": "PERSONALITY - HERE I AM SESSION",
+            "SLUG": "personality-here-i-am-session",
+            "VIDEO": "NtSFoB7iX14",
+            "GAMBAR": "601ea0a94f089.png",
+            "RUBRIK": "Talk About"
+        },
+        {
+            "ID": "4",
+            "ID_RUBRIK": "6",
+            "TGL": "06-02-2021 21:00",
+            "HARI": "Saturday",
+            "HITS": "0",
+            "JUDUL": "CARA BISNIS TANAMAN HIDROPONIK SISTEM ( HYDROPONIC ) EPISODE 1",
+            "SLUG": "cara-bisnis-tanaman-hidroponik-sistem-hydroponic-episode-1",
+            "VIDEO": "sD6lUefaHo4",
+            "GAMBAR": "601ea02f4d695.png",
+            "RUBRIK": "Talk About"
+        },
+        {
+            "ID": "10",
+            "ID_RUBRIK": "8",
+            "TGL": "06-02-2021 21:00",
+            "HARI": "Saturday",
+            "HITS": "0",
+            "JUDUL": "LIGHT UP YOUR COMPANY SESSION 1   PART 2",
+            "SLUG": "light-up-your-company-session-1-part-2",
+            "VIDEO": "cwKmHjDTsfE",
+            "GAMBAR": "601ea41ec1d3b.png",
+            "RUBRIK": "Motivasi"
+        },
+        {
+            "ID": "6",
+            "ID_RUBRIK": "7",
+            "TGL": "06-02-2021 21:00",
+            "HARI": "Saturday",
+            "HITS": "0",
+            "JUDUL": "KAWAN LAMA GROUP",
+            "SLUG": "kawan-lama-group",
+            "VIDEO": "AvQubQjeLf8",
+            "GAMBAR": "601ea106ab659.png",
+            "RUBRIK": "Leader Story"
+        },
+        {
+            "ID": "9",
+            "ID_RUBRIK": "8",
+            "TGL": "06-02-2021 21:00",
+            "HARI": "Saturday",
+            "HITS": "0",
+            "JUDUL": "LIGHT UP YOUR COMPANY SESSION 1   PART 1",
+            "SLUG": "light-up-your-company-session-1-part-1",
+            "VIDEO": "z8kMWmGMSxc",
+            "GAMBAR": "601ea3d9a9bfa.png",
+            "RUBRIK": "Motivasi"
+        },
+        {
+            "ID": "8",
+            "ID_RUBRIK": "8",
+            "TGL": "06-02-2021 21:00",
+            "HARI": "Saturday",
+            "HITS": "0",
+            "JUDUL": "Saatnya Kembangkan Valuable Time untuk Work From Home",
+            "SLUG": "saatnya-kembangkan-valuable-time-untuk-work-from-home",
+            "VIDEO": "llvR8EDhZI8",
+            "GAMBAR": "601ea35998291.png",
+            "RUBRIK": "Motivasi"
+        }
+    ]
+}
